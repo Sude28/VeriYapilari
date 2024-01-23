@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1667228767 source:c:\users\sude\desktop\veriyapilari\node (headers dosyasi kullanarak)\main.c
+	<stdio.h>
+	<stdlib.h>
+	"aa.h"
+
+1667228767 c:\users\sude\desktop\veriyapilari\node (headers dosyasi kullanarak)\aa.h
+
